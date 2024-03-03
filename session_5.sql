@@ -66,3 +66,5 @@ SELECT * FROM student;
 SELECT * FROM courses;
 
 DESC student;
+
+DESC courses;
